@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML File</title>
+</head>
+<body style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <div>
+        <strong><u>Welcome</u></strong>
+    </div>
+</body>
+</html>
